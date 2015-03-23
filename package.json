@@ -1,0 +1,22 @@
+{
+  "name": "TestingPromisesInNode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "testing",
+    "promises",
+    "Node"
+  ],
+  "author": "Rafael",
+  "license": "ISC",
+  "devDependencies": {
+    "should": "^5.2.0"
+  },
+  "dependencies": {
+    "q": "^1.2.0"
+  }
+}
